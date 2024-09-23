@@ -3,7 +3,7 @@
   "servers": [
     {
       "description": "SwaggerHub API Auto Mocking",
-      "url": "https://virtserver.swaggerhub.com/VICHIGOVAANNA/Internet-shop/1.0.0"
+      "url": "http://127.0.0.1"
     }
   ],
   "info": {
